@@ -1,0 +1,5 @@
+world: "&cNo puedes usar ese comando en el mundo normal."
+nether: "&4Este comando está prohibido en el Nether."
+end: "&5Comando bloqueado en el End."
+pvp_arena: "&eLos comandos están deshabilitados en la Arena PvP."
+default: "&cEse comando está bloqueado aquí."

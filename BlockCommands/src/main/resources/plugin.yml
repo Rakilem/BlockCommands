@@ -1,0 +1,6 @@
+name: BlockCommands
+main: com.rakilem.blockcommands.BlockCommands
+version: 1.1.0
+api: ["1.0.0"]
+author: Rakilem
+description: Bloquea comandos por mundo con mensajes configurables

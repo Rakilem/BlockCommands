@@ -1,0 +1,11 @@
+world:
+  - tp
+  - gamemode
+nether:
+  - spawn
+end:
+  - home
+  - kit
+pvp_arena:
+  - fly
+  - heal
